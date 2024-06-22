@@ -7,7 +7,14 @@
 🎓 Cyber security lover. <br>
 <br>
 
+<div> 
+  <p> Connect with me! </p>
+  <a href = "mailto:jpcunha5@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
+  <a href="https://www.linkedin.com/in/pixies0/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>
+</div>
+<br>
 <p>&nbsp;<img align="center" src="https://readmestats.999857.xyz/api?username=pixies0&show_icons=true&locale=en&theme=tokyonight" alt="pixies0" /></p>
+
 
 ## 🔨 Languages & Frameworks & Skills ⭐️:
 
