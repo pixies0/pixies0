@@ -1,8 +1,11 @@
-Hello, World! I'm JP Cunha 👋
+### Hello, World! I'm JP Cunha 👋
 
-😍 I'm a technology enthusiast!
-💻 Fullstack developer and System Analyst with experience in web systems and api's.
-🎓 I'm graduating in computer science from the Federal University of Tocantins (UFT).
+<br> 
+😍 I'm a technology enthusiast! <br>
+💻 Fullstack developer and System Analyst with experience in web systems and api's. <br>
+🎓 I'm graduating in computer science from the Federal University of Tocantins (UFT). <br>
+🎓 Cyber security lover. <br>
+<br>
 
 <p>&nbsp;<img align="center" src="https://readmestats.999857.xyz/api?username=pixies0&show_icons=true&locale=en&theme=tokyonight" alt="pixies0" /></p>
 
