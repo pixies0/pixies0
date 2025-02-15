@@ -1,11 +1,12 @@
 ### Hello, World! I'm JP Cunha 👋
 
-<br> 
+<img src="https://tryhackme-badges.s3.amazonaws.com/pixies0.png" alt="Your Image Badge" />
+
 😍 I'm a technology enthusiast! <br>
-💻 Fullstack developer and System Analyst with experience in web systems and api's. <br>
-🎓 I'm graduating in computer science from the Federal University of Tocantins (UFT). <br>
+💻 Experience in web systems and api's. <br>
+🎓 I'm Graduate in computer science from the Federal University of Tocantins (UFT). <br>
 🎓 Cyber security lover. <br>
-<br>
+
 
 <div> 
   <p> Connect with me! </p>
@@ -15,7 +16,7 @@
 <br>
 <p>&nbsp;<img align="center" src="https://readmestats.999857.xyz/api?username=pixies0&show_icons=true&locale=en&theme=tokyonight" alt="pixies0" /></p>
 
-
+<!--
 ## 🔨 Languages & Frameworks & Skills ⭐️:
 
 ### Web Design & Development 💻:
@@ -52,3 +53,5 @@
 ### IDEs and Tools 🛠:
 ![VSCode](https://img.shields.io/badge/Visual_Studio_Code-0078D4?style=for-the-badge&logo=visual%20studio%20code&logoColor=white)
 ![Trello](https://img.shields.io/badge/Trello-0052CC?style=for-the-badge&logo=trello&logoColor=white)
+
+-->
