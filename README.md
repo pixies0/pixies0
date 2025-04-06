@@ -7,7 +7,7 @@
 🎓 I'm Graduate in computer science from the Federal University of Tocantins (UFT). <br>
 🎓 Cyber security lover. <br>
 
-<a href="https://imgbb.com/"><img src="https://i.ibb.co/jvMqRKjS/network-defense.png" alt="network-defense" border="0"></a>
+<a href="https://www.credly.com/badges/aff76721-6c3a-4849-9da9-d30ec67b25c7"><img src="https://i.ibb.co/jvMqRKjS/network-defense.png" alt="network-defense" border="0"></a>
 
 <div> 
   <p> Connect with me! </p>
