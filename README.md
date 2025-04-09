@@ -1,6 +1,6 @@
 ### Hello, World! I'm JP Cunha 👋
 
-<img src="https://tryhackme-badges.s3.amazonaws.com/pixies0.png" alt="Your Image Badge" />
+
 
 😍 I'm a technology enthusiast! <br>
 💻 Experience in web systems and api's. <br>
