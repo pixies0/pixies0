@@ -1,6 +1,7 @@
 ### Hello World! I'm JP Cunha 👋
 
-![pixies0](https://github.com/user-attachments/assets/0facae28-9316-4234-95dd-31a671bb4689)
+![pixies0](https://github.com/user-attachments/assets/f32cf07e-1781-4465-9709-4a320e8a078e)
+
 <!-- <img src="https://tryhackme-badges.s3.amazonaws.com/pixies0.png" alt="Your Image Badge" /> -->
 
 😍 I'm a technology enthusiast! <br>
