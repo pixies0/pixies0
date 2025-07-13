@@ -9,6 +9,13 @@
 🎓 I'm Graduate in computer science from the Federal University of Tocantins (UFT). <br>
 🎓 Cyber security lover. <br>
 
+
+## Skills
+![Python](https://img.shields.io/badge/Python-14354C?style=for-the-badge&logo=python&logoColor=white)
+![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)
+![PHP](https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white) 
+![Javascript](https://img.shields.io/badge/JavaScript-F7DF1E.svg?style=for-the-badge&logo=javascript&logoColor=white)
+
 <div> 
   <a href="https://www.credly.com/badges/f18916ce-c628-4685-b3b0-3a16cbd37d9d"><img src="https://i.ibb.co/prj3sqZf/ccna-introduction-to-networks.png" alt="ccna-introduction-to-networks" border="0"></a>
   <a href="https://www.credly.com/badges/aff76721-6c3a-4849-9da9-d30ec67b25c7"><img src="https://i.ibb.co/jvMqRKjS/network-defense.png" alt="network-defense" border="0"></a>
@@ -17,7 +24,7 @@
 </div>
 
 <div> 
-  <p> Connect with me! </p>
+  <h2> Connect with me! </h2>
   <a href = "mailto:jpcunha5@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
   <a href="https://www.linkedin.com/in/pixies0/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>
 </div>
