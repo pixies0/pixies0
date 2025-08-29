@@ -1,6 +1,6 @@
 ### Hello World! I'm JP Cunha 👋
 
-![pixies0](https://github.com/user-attachments/assets/6b243661-7c36-4237-84da-40d5cf524f5a)
+![pixies0](https://github.com/user-attachments/assets/49a38463-6c38-440f-be28-6e68f25a4e3d)
 
 <!-- <img src="https://tryhackme-badges.s3.amazonaws.com/pixies0.png" alt="Your Image Badge" /> -->
 
@@ -15,6 +15,18 @@
 ![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)
 ![PHP](https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white) 
 ![Javascript](https://img.shields.io/badge/JavaScript-F7DF1E.svg?style=for-the-badge&logo=javascript&logoColor=white)
+
+<div>
+  <a href="https://tryhackme.com/pixies0/badges/metasploitable"><img src="https://tryhackme.com/img/badges/metasploit.svg" alt="badge1" width="110" height="110"></a>
+  <a href="https://tryhackme.com/pixies0/badges/30-day-streak"><img src="https://tryhackme.com/img/badges/streak30.svg" alt="badge5" width="110" height="110"></a>
+  <!-- <a href="https://tryhackme.com/pixies0/badges/world-wide-web"><img src="https://tryhackme.com/img/badges/howthewebworks.svg" alt="badge2" width="110" height="110"></a>
+  <a href="https://tryhackme.com/pixies0/badges/web-fund"><img src="https://tryhackme.com/img/badges/webbed.svg" alt="badge6" width="110" height="110"></a>
+  <a href="https://tryhackme.com/pixies0/badges/network-fundamentals"><img src="https://tryhackme.com/img/badges/networkfundamentals.svg" alt="badge2" width="110" height="110"></a> -->
+  <a href="https://tryhackme.com/pixies0/badges/hash-cracker"><img src="https://tryhackme.com/img/badges/hashcracker.svg" alt="badge8" width="110" height="110"></a>
+  <a href="https://tryhackme.com/pixies0/badges/ice"><img src="https://tryhackme.com/img/badges/ice.svg" alt="badge7" width="110" height="110"></a>
+  <a href="https://tryhackme.com/pixies0/badges/blue"><img src="https://tryhackme.com/img/badges/blue.svg" alt="badge3" width="110" height="110"></a>
+  <a href="https://tryhackme.com/pixies0/badges/terminaled"><img src="https://tryhackme.com/img/badges/linux.svg" alt="badge4" width="110" height="110"></a>
+</div>
 
 <div> 
   <a href="https://www.credly.com/badges/f18916ce-c628-4685-b3b0-3a16cbd37d9d"><img src="https://i.ibb.co/prj3sqZf/ccna-introduction-to-networks.png" alt="ccna-introduction-to-networks" border="0"></a>
