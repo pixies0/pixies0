@@ -27,7 +27,7 @@
   <a href="https://tryhackme.com/pixies0/badges/blue"><img src="https://tryhackme.com/img/badges/blue.svg" alt="badge3" width="110" height="110"></a>
   <a href="https://tryhackme.com/pixies0/badges/terminaled"><img src="https://tryhackme.com/img/badges/linux.svg" alt="badge4" width="110" height="110"></a>
 </div>
-
+<br>
 <div> 
   <a href="https://www.credly.com/badges/f18916ce-c628-4685-b3b0-3a16cbd37d9d"><img src="https://i.ibb.co/prj3sqZf/ccna-introduction-to-networks.png" alt="ccna-introduction-to-networks" border="0"></a>
   <a href="https://www.credly.com/badges/9a3f75e6-2735-45b6-b68d-69093f36b583"><img src="https://i.ibb.co/jSG3cYf/network-security.png" alt="network-security" border="0"></a>
