@@ -9,10 +9,10 @@
 🎓 I'm Graduate in computer science from the Federal University of Tocantins (UFT). <br>
 🎓 Cyber security lover. <br>
 
+## Skills
 
 <div align="center">
-
-## Skills
+  
 ![Python](https://img.shields.io/badge/Python-14354C?style=for-the-badge&logo=python&logoColor=white)
 ![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)
 ![PHP](https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white) 
