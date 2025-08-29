@@ -10,6 +10,8 @@
 🎓 Cyber security lover. <br>
 
 
+<div align="center">
+
 ## Skills
 ![Python](https://img.shields.io/badge/Python-14354C?style=for-the-badge&logo=python&logoColor=white)
 ![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)
@@ -34,6 +36,7 @@
   <a href="https://www.credly.com/badges/aff76721-6c3a-4849-9da9-d30ec67b25c7"><img src="https://i.ibb.co/jvMqRKjS/network-defense.png" alt="network-defense" border="0"></a>
    <a href="https://www.credly.com/badges/d706dae3-f46d-4483-9884-b9b8cb1689e2"><img src="https://i.ibb.co/Ps8JnrVK/network-technician-career-path.png" alt="network-technician-career-path" border="0"></a>
    <a href="https://www.credly.com/badges/948ca0fa-bd36-4406-8d0a-8e9c10064424"><img src="https://i.ibb.co/394ZBGPs/badgelearnathon.png" alt="badgelearnathon" border="0"></a>
+</div>
 </div>
 
 <div> 
