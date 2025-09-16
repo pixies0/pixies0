@@ -20,13 +20,13 @@
 
 <div>
   <a href="https://tryhackme.com/pixies0/badges/metasploitable"><img src="https://tryhackme.com/img/badges/metasploit.svg" alt="badge1" width="110" height="110"></a>
-  <a href="https://tryhackme.com/pixies0/badges/30-day-streak"><img src="https://tryhackme.com/img/badges/streak30.svg" alt="badge5" width="110" height="110"></a>
+  <a href="https://tryhackme.com/pixies0/badges/owasptop10"><img src="https://tryhackme.com/img/badges/owasptop10.svg" alt="badge5" width="110" height="110"></a>
   <!-- <a href="https://tryhackme.com/pixies0/badges/world-wide-web"><img src="https://tryhackme.com/img/badges/howthewebworks.svg" alt="badge2" width="110" height="110"></a>
   <a href="https://tryhackme.com/pixies0/badges/web-fund"><img src="https://tryhackme.com/img/badges/webbed.svg" alt="badge6" width="110" height="110"></a>
   <a href="https://tryhackme.com/pixies0/badges/network-fundamentals"><img src="https://tryhackme.com/img/badges/networkfundamentals.svg" alt="badge2" width="110" height="110"></a> -->
   <a href="https://tryhackme.com/pixies0/badges/hash-cracker"><img src="https://tryhackme.com/img/badges/hashcracker.svg" alt="badge8" width="110" height="110"></a>
-  <a href="https://tryhackme.com/pixies0/badges/ice"><img src="https://tryhackme.com/img/badges/ice.svg" alt="badge7" width="110" height="110"></a>
-  <a href="https://tryhackme.com/pixies0/badges/blue"><img src="https://tryhackme.com/img/badges/blue.svg" alt="badge3" width="110" height="110"></a>
+  <!-- <a href="https://tryhackme.com/pixies0/badges/ice"><img src="https://tryhackme.com/img/badges/ice.svg" alt="badge7" width="110" height="110"></a> -->
+  <a href="https://tryhackme.com/pixies0/badges/blue"><img src="https://tryhackme.com/img/badges/blue.svg" alt="badge3" width="110" height="110"></a> 
   <a href="https://tryhackme.com/pixies0/badges/terminaled"><img src="https://tryhackme.com/img/badges/linux.svg" alt="badge4" width="110" height="110"></a>
 </div>
 <br>
