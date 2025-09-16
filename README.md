@@ -20,7 +20,7 @@
 
 <div>
   <a href="https://tryhackme.com/pixies0/badges/metasploitable"><img src="https://tryhackme.com/img/badges/metasploit.svg" alt="badge1" width="110" height="110"></a>
-  <a href="https://tryhackme.com/pixies0/badges/owasptop10"><img src="https://tryhackme.com/img/badges/owasptop10.svg" alt="badge5" width="110" height="110"></a>
+  <a href="https://tryhackme.com/pixies0/badges/owasp-10"><img src="https://tryhackme.com/img/badges/owasptop10.svg" alt="badge5" width="110" height="110"></a>
   <!-- <a href="https://tryhackme.com/pixies0/badges/world-wide-web"><img src="https://tryhackme.com/img/badges/howthewebworks.svg" alt="badge2" width="110" height="110"></a>
   <a href="https://tryhackme.com/pixies0/badges/web-fund"><img src="https://tryhackme.com/img/badges/webbed.svg" alt="badge6" width="110" height="110"></a>
   <a href="https://tryhackme.com/pixies0/badges/network-fundamentals"><img src="https://tryhackme.com/img/badges/networkfundamentals.svg" alt="badge2" width="110" height="110"></a> -->
