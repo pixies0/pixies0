@@ -33,6 +33,7 @@
 <br>
 <div> 
   <a href="https://www.credly.com/badges/f18916ce-c628-4685-b3b0-3a16cbd37d9d"><img src="https://i.ibb.co/prj3sqZf/ccna-introduction-to-networks.png" alt="ccna-introduction-to-networks" border="0"></a>
+  <a href="https://www.credly.com/badges/b0d8af6a-bb96-4d15-a70f-939ccfcabe54"><img src="https://i.postimg.cc/RZxFkRMP/cyber-threat-management.png" alt="cyber-threat-management" border="0"></a>
   <a href="https://www.credly.com/badges/9a3f75e6-2735-45b6-b68d-69093f36b583"><img src="https://i.ibb.co/jSG3cYf/network-security.png" alt="network-security" border="0"></a>
   <a href="https://www.credly.com/badges/aff76721-6c3a-4849-9da9-d30ec67b25c7"><img src="https://i.ibb.co/jvMqRKjS/network-defense.png" alt="network-defense" border="0"></a>
    <!-- <a href="https://www.credly.com/badges/d706dae3-f46d-4483-9884-b9b8cb1689e2"><img src="https://i.ibb.co/Ps8JnrVK/network-technician-career-path.png" alt="network-technician-career-path" border="0"></a> -->
