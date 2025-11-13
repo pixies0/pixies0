@@ -7,7 +7,7 @@
 😍 I'm a technology enthusiast! <br>
 💻 Experience in web systems and api's. <br>
 🎓 I'm Graduate in computer science from the Federal University of Tocantins (UFT). <br>
-🎓 Cyber security lover. <br>
+🎓 Cyber security practioner. <br>
 
 ## Skills
 
