@@ -4,7 +4,7 @@
 
 Computer Science graduate from the Federal University of Tocantins (UFT), with experience developing web systems and APIs.
 
-My main stack is Python, Django, and FastAPI. I also practice cybersecurity through hands-on labs.
+My main stack is Python, Django, and FastAPI. I also practice cybersecurity through hands-on labs on TryHackMe.
 
 ## Tech Stack
 
@@ -41,9 +41,20 @@ My main stack is Python, Django, and FastAPI. I also practice cybersecurity thro
 
 Hands-on learning and practice on TryHackMe.
 
-<a href="https://tryhackme.com/p/pixies0">
-  <img src="https://cdn-images.tryhackme.com/public-profile/pixies0/badge-dark-e1395354e93b.png" alt="JP Cunha's TryHackMe profile badge" width="400">
-</a>
+<table>
+  <tr>
+    <td align="center" valign="middle">
+      <a href="https://tryhackme.com/p/pixies0">
+        <img src="https://cdn-images.tryhackme.com/public-profile/pixies0/badge-dark-e1395354e93b.png" alt="JP Cunha's TryHackMe profile badge" width="400">
+      </a>
+    </td>
+    <td align="center" valign="middle">
+      <a href="https://www.credly.com/badges/9ab2bec5-9979-411d-9af3-bd40e8b70ecd/public_url">
+        <img src="https://images.credly.com/images/90130351-1238-437c-a28a-1235f266ee74/linkedin_thumb_blob" alt="Safety &amp; Security — OpenEDG (Credly)" width="290">
+      </a>
+    </td>
+  </tr>
+</table>
 
 ## Connect
 
