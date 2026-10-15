@@ -4,7 +4,7 @@
 
 Computer Science graduate from the Federal University of Tocantins (UFT), with experience developing web systems and APIs.
 
-My main stack is Python, Django, and FastAPI. I also practice cybersecurity through hands-on labs on TryHackMe.
+My main stack is Python, Django, and FastAPI. I also practice cybersecurity through hands-on labs.
 
 ## Tech Stack
 
